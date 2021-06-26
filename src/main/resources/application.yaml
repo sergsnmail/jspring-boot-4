@@ -1,0 +1,9 @@
+server:
+  port: 8189
+  servlet:
+    context-path: /app
+
+logging:
+  level:
+    root: ERROR
+    org.springframework.web: INFO
